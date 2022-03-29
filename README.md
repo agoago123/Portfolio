@@ -6,6 +6,7 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 * [GitHub](https://github.com/)
 * [Trello](trello.com)
 * [Confluence](https://www.atlassian.com/pl/software/confluence)
+* [Katalon recorder](https://katalon.com/)
 # Tech skills
 * Software testing
 * Creating test cases
