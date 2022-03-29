@@ -14,6 +14,8 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 * Reporting bugs
 # Courses
 * [Kurs testowania oprogramowania - Testuj.pl](https://testuj.pl/karta-szkolenia/kurs-it-online-wieczorowa-akademia-testowania-plus)
+# Certificates
+* number
 # Books
 * ABC Testowania Oprogramowania
 * Zawód tester
