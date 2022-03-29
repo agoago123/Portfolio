@@ -1,9 +1,10 @@
 # Portfolio
-# O mnie
-# Narzędzia
-# Kursy
-# Techniczne książki
-# Grupy testerskie
-# Dokumentacja testowa
-# Projekty
-# Meetupy
+# About me
+# Tools
+# Tech skills
+# Courses
+# Books
+# My test case examples
+# My bug reports
+# My projects
+# Meetups & Webinars
