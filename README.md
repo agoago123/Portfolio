@@ -30,3 +30,7 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 * Podstawy GIT oraz github - Ifs&Whiles
 * Ile naprawdę wiesz o testowaniu? - testuj.pl
 * Warsztaty programowania w Python - Ifs&Whiles
+# Groups
+* Tester oprogramowania - wsparcie na starcie
+* Cherry-IT: Zostań testerem
+* Geek Girls Carrots Silesia
