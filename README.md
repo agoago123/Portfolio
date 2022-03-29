@@ -5,6 +5,7 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 # Tools
 * [GitHub](https://github.com/)
 * [Trello](trello.com)
+* [Jira](https://www.atlassian.com/pl/software/jira)
 * [Confluence](https://www.atlassian.com/pl/software/confluence)
 * [Katalon recorder](https://katalon.com/)
 # Tech skills
