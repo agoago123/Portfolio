@@ -19,7 +19,13 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 # Books
 * ABC Testowania Oprogramowania
 * Zawód tester
+# Favourite blogs
+* testerzy.pl
+* wyszkolewas.com.pl
+* testuj.pl - Test, Bugs & Rock'n'Roll
 # My test case examples
 # My bug reports
 # My projects
 # Meetups & Webinars
+* Podstawy GIT oraz github
+* Warsztaty programowania w Python
