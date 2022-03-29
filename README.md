@@ -27,5 +27,6 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 # My bug reports
 # My projects
 # Meetups & Webinars
-* Podstawy GIT oraz github
-* Warsztaty programowania w Python
+* Podstawy GIT oraz github - Ifs&Whiles
+* Ile naprawdę wiesz o testowaniu? - testuj.pl
+* Warsztaty programowania w Python - Ifs&Whiles
