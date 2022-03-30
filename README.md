@@ -17,8 +17,8 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 # Certificates
 * number
 # Books
-* ABC Testowania Oprogramowania
-* Zawód tester
+* ABC Testowania Oprogramowania - W. Szafraniec
+* Zawód tester. Od decyzji do zdobycia doświadczenia - R. Smilgin
 # Favourite blogs
 * testerzy.pl
 * wyszkolewas.com.pl
