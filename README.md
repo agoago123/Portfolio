@@ -26,6 +26,8 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 # My test case examples
 # My bug reports
 # My projects
+* COLT – Collaborative Testing (Cherry-IT)
+* Projekt Odessa (Cherry-IT)
 # Meetups & Webinars
 * Podstawy GIT oraz github - Ifs&Whiles
 * Ile naprawdę wiesz o testowaniu? - testuj.pl
