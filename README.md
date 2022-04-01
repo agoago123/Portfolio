@@ -26,6 +26,7 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 # My test case examples
 * [Test cases for tatromaniak.pl](https://docs.google.com/spreadsheets/d/1jSpZVBiEpD-JODOSWxv-RvTeD1P4moBhH5wrbfp_8Zg/edit?usp=sharing) 
 # My bug reports
+* [Bug reports for tatromaniak.pl](https://docs.google.com/spreadsheets/d/1fyqCPsowjQoW7iUBhblzdGcYynXQZpF8Q62oiqV6OLY/edit?usp=sharing)
 # My projects
 * COLT – Collaborative Testing (Cherry-IT)
 * Projekt Odessa (Cherry-IT)
