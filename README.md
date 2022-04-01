@@ -20,9 +20,9 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 * ABC Testowania Oprogramowania - W. Szafraniec
 * Zawód tester. Od decyzji do zdobycia doświadczenia - R. Smilgin
 # Favourite blogs
-* testerzy.pl
-* wyszkolewas.com.pl
-* testuj.pl - Test, Bugs & Rock'n'Roll
+* [testerzy.pl](testerzy.pl)
+* [wyszkolewas.com.pl](wyszkolewas.com.pl)
+* [testuj.pl - Test, Bugs & Rock'n'Roll](testuj.pl)
 # My test case examples
 * [Test cases for tatromaniak.pl](https://docs.google.com/spreadsheets/d/1jSpZVBiEpD-JODOSWxv-RvTeD1P4moBhH5wrbfp_8Zg/edit?usp=sharing) 
 # My bug reports
