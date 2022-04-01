@@ -24,6 +24,7 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 * wyszkolewas.com.pl
 * testuj.pl - Test, Bugs & Rock'n'Roll
 # My test case examples
+* [Test cases for tatromaniak.pl](https://docs.google.com/spreadsheets/d/1jSpZVBiEpD-JODOSWxv-RvTeD1P4moBhH5wrbfp_8Zg/edit?usp=sharing) 
 # My bug reports
 # My projects
 * COLT – Collaborative Testing (Cherry-IT)
