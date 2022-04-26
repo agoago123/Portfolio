@@ -32,9 +32,7 @@ My goal is to develop testing knowlage and technical skills.
 * COLT – Collaborative Testing (Cherry-IT)
 * Projekt Odessa (Cherry-IT)
 # Meetups & Webinars
-* Podstawy GIT oraz github - Ifs&Whiles
-* Ile naprawdę wiesz o testowaniu? - testuj.pl
-* Warsztaty programowania w Python - Ifs&Whiles
+
 # Groups
 * Tester oprogramowania - wsparcie na starcie
 * Cherry-IT: Zostań testerem
